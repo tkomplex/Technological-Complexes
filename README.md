@@ -1,0 +1,2 @@
+# Technological-Complexes
+The journal covers the problems of information technology design, modeling, optimization, structural analysis and synthesis of technological systems; modeling of the functioning of technological systems, design, algorithmization and computer-aided diagnosis of technological control systmes; development of technological systems in various industries; design of functional elements of the technological systems
